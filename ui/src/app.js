@@ -15,33 +15,33 @@ var lastRates = null
 var coins = {
   BTC: {
     unitScale: 8,
-    displayScale: 5,
-    displayCode: 'mBTC'
+    displayScale: 6,
+    displayCode: 'BTC'
   },
   ETH: {
     unitScale: 18,
-    displayScale: 15,
-    displayCode: 'mETH'
+    displayScale: 16,
+    displayCode: 'ETH'
   },
   ZEC: {
     unitScale: 8,
-    displayScale: 5,
-    displayCode: 'mZEC'
+    displayScale: 6,
+    displayCode: 'ZEC'
   },
   LTC: {
     unitScale: 8,
-    displayScale: 5,
-    displayCode: 'mLTC'
+    displayScale: 6,
+    displayCode: 'LTC'
   },
   DASH: {
     unitScale: 8,
-    displayScale: 5,
-    displayCode: 'mDASH'
+    displayScale: 6,
+    displayCode: 'DASH'
   },
   BCH: {
     unitScale: 8,
-    displayScale: 5,
-    displayCode: 'mBCH'
+    displayScale: 6,
+    displayCode: 'BCH'
   }
 }
 
@@ -817,7 +817,7 @@ function formatFiat (amount, fractionDigits) {
 }
 
 function singleCurrencyUnit () {
-  return formatFiat(1)
+  return formatFiat(100)
 }
 
 function setExchangeRate (_rates) {
@@ -831,7 +831,7 @@ function setExchangeRate (_rates) {
 
   var cryptoToFiat = new BigNumber(rates.cashIn)
 
-  var fiatToCrypto = new BigNumber(1).div(cryptoToFiat.div(coinDisplayFactor)).round(3).toString()
+  var fiatToCrypto = new BigNumber(1).div(cryptoToFiat.div(coinDisplayFactor)).round(8).toString()
 
   var rateStr = formatFiat(cryptoToFiat.round(2).toNumber(), 2)
   var translated = locale.translate('Our current %s price is %s').fetch(cryptoCode, rateStr)
