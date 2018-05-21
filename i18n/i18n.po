@@ -387,8 +387,8 @@ msgid "Tap anywhere when you're done."
 msgstr "Tap anywhere when you're done."
 
 #: On screen: goodbye
-msgid "See You!"
-msgstr "See You!"
+msgid "Come back any time!"
+msgstr "Come back any time!"
 
 #: On screen: trouble
 msgid "Sorry!"

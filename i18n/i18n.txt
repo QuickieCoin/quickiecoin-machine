@@ -19,7 +19,7 @@ SEND BITCOINS
 Insert another bill
 deposited so far
 total bitcoins purchased
-See You!
+Come back any time!
 Sorry!
 We're down for the moment.
 Please contact the operator.

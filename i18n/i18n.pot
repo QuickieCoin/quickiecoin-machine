@@ -97,7 +97,7 @@ msgid "total bitcoins purchased"
 msgstr ""
 
 #: <stdin>:43
-msgid "See You!"
+msgid "Come back any time!"
 msgstr ""
 
 #: <stdin>:45
