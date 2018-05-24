@@ -19,7 +19,7 @@ SEND BITCOINS
 Insert another bill
 deposited so far
 total bitcoins purchased
-Come back any time!
+Thanks for using QuickieCoin!
 Sorry!
 We're down for the moment.
 Please contact the operator.

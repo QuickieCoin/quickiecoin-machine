@@ -189,8 +189,8 @@ msgid "Tap anywhere when you're done."
 msgstr "Tap anywhere when you're done."
 
 #: On screen: goodbye
-msgid "Come back any time!"
-msgstr "Come back any time!"
+msgid "Thanks for using QuickieCoin!"
+msgstr "Thanks for using QuickieCoin!"
 
 #: On screen: trouble
 msgid "Sorry!"
