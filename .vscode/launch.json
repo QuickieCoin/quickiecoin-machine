@@ -7,6 +7,17 @@
     {
       "type": "node",
       "request": "launch",
+      "name": "Run With Bill Validator",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run-script",
+        "start"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
       "name": "Launch Program",
       "program": "${workspaceRoot}/bin/lamassu-machine",
       "cwd": "${workspaceRoot}",

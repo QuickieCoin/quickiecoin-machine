@@ -172,7 +172,7 @@ msgid "We're down for the moment."
 msgstr "La machine est indisponible pour le moment."
 
 #: trouble
-msgid "Please contact the operator."
+msgid "Please contact team@quickiecoin.com."
 msgstr "Veuillez contacter l'opérateur."
 
 #: locked

@@ -56,7 +56,7 @@
     "test": "ava",
     "build": "babel ui/src/app.js -s -o ui/js/app.js",
     "autoprefix": "postcss ui/css/main.css --no-map --use autoprefixer -d build/css",
-    "dev": "node bin/lamassu-machine --mockBv /dev/ttys004 --mockBillDispenser --mockCam --mockPair 'P%H389MQIXVR5 WA*UODOIER2NG:8E3A6U4YZHQBWM2DCGD22VQ22XL:31CD+$4ALPFSEFTQLD*ADS//TVOGZ/NQZ38Y1LU762L*.NPGGQ741H52'"
+    "start": "node bin/lamassu-machine --mockBillValidator --mockBillDispenser --mockCam --mockPair 'P%H389MQIXVR5 WA*UODOIER2NG:8E3A6U4YZHQBWM2DCGD22VQ22XL:31CD+$4ALPFSEFTQLD*ADS//TVOGZ/NQZ38Y1LU762L*.NPGGQ741H52'"
   },
   "standard": {
     "ignore": [

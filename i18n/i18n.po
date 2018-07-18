@@ -71,8 +71,8 @@ msgid "We don't see any open orders associated with your phone. If you have anot
 msgstr "We don't see any open orders associated with your phone. If you have another phone you may have used, you can try redeeming again with that number."
 
 #: On screen: unknown-phone-number
-msgid "If you're sure you have an open order associated with this phone, please contact the operator."
-msgstr "If you're sure you have an open order associated with this phone, please contact the operator."
+msgid "If you're sure you have an open order associated with this phone, Please contact team@quickiecoin.com."
+msgstr "If you're sure you have an open order associated with this phone, Please contact team@quickiecoin.com."
 
 #: On screen: unknown-phone-number
 msgid "OK"
@@ -119,8 +119,8 @@ msgid "We're having some difficulties."
 msgstr "We're having some difficulties."
 
 #: On screen: fiat-error
-msgid "Please contact the operator."
-msgstr "Please contact the operator."
+msgid "Please contact team@quickiecoin.com."
+msgstr "Please contact team@quickiecoin.com."
 
 #: On screen: fiat-error
 msgid "OK"
@@ -167,8 +167,8 @@ msgid "You've hit the maximum number of retries."
 msgstr "You've hit the maximum number of retries."
 
 #: On screen: max-phone-retries
-msgid "Please contact the operator to sort this out, or try again later."
-msgstr "Please contact the operator to sort this out, or try again later."
+msgid "Please contact team@quickiecoin.com to sort this out, or try again later."
+msgstr "Please contact team@quickiecoin.com to sort this out, or try again later."
 
 #: On screen: max-phone-retries
 msgid "OK"
@@ -263,8 +263,8 @@ msgid "Our system indicated an identification problem."
 msgstr "Our system indicated an identification problem."
 
 #: On screen: id-verification-failed
-msgid "Please contact the operator for more information."
-msgstr "Please contact the operator for more information."
+msgid "Please contact team@quickiecoin.com for more information."
+msgstr "Please contact team@quickiecoin.com for more information."
 
 #: On screen: id-verification-failed
 msgid "OK"
@@ -279,8 +279,8 @@ msgid "We could not read your ID card."
 msgstr "We could not read your ID card."
 
 #: On screen: id-scan-failed
-msgid "Please contact the operator for more information."
-msgstr "Please contact the operator for more information."
+msgid "Please contact team@quickiecoin.com for more information."
+msgstr "Please contact team@quickiecoin.com for more information."
 
 #: On screen: id-scan-failed
 msgid "OK"
@@ -399,8 +399,8 @@ msgid "We're down for the moment."
 msgstr "We're down for the moment."
 
 #: On screen: trouble
-msgid "Please contact the operator."
-msgstr "Please contact the operator."
+msgid "Please contact team@quickiecoin.com."
+msgstr "Please contact team@quickiecoin.com."
 
 #: On screen: booting
 msgid "Booting up..."
@@ -423,8 +423,8 @@ msgid "Maintenance required."
 msgstr "Maintenance required."
 
 #: On screen: maintenance
-msgid "Please contact the operator."
-msgstr "Please contact the operator."
+msgid "Please contact team@quickiecoin.com."
+msgstr "Please contact team@quickiecoin.com."
 
 #: On screen: connecting
 msgid "Connecting..."
@@ -683,8 +683,8 @@ msgid "Sorry, but we're all out of cash!"
 msgstr "Sorry, but we're all out of cash!"
 
 #: On screen: out-of-cash
-msgid "Please contact the operator for assistance."
-msgstr "Please contact the operator for assistance."
+msgid "Please contact team@quickiecoin.com for assistance."
+msgstr "Please contact team@quickiecoin.com for assistance."
 
 #: On screen: choose_coin
 msgid "Redeem"

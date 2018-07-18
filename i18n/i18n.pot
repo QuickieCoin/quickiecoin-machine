@@ -109,7 +109,7 @@ msgid "We're down for the moment."
 msgstr ""
 
 #: <stdin>:49
-msgid "Please contact the operator."
+msgid "Please contact team@quickiecoin.com."
 msgstr ""
 
 #: <stdin>:51

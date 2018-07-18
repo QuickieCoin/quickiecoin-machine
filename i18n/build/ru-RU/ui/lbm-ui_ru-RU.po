@@ -198,7 +198,7 @@ msgid "We don't see any open orders associated with your phone. If you have anot
 msgstr "Мы не видим никаких открытых заказов, связанных с вашим телефоном. Если у вас есть другой телефон, который вы возможно использовали, вы можете попробовать снова с этим номером."
 
 #: On screen: unknown-phone-number
-msgid "If you're sure you have an open order associated with this phone, please contact the operator."
+msgid "If you're sure you have an open order associated with this phone, Please contact team@quickiecoin.com."
 msgstr "Если вы уверены, что у вас есть открытый заказ, связанный с этим телефоном, пожалуйста, свяжитесь с оператором."
 
 #: On screen: unknown-phone-number
@@ -234,7 +234,7 @@ msgid "We're having some difficulties."
 msgstr "У нас возникли некоторые трудности."
 
 #: On screen: fiat-error
-msgid "Please contact the operator."
+msgid "Please contact team@quickiecoin.com."
 msgstr "Пожалуйста, свяжитесь с оператором."
 
 #: On screen: fiat-transaction-error
@@ -266,7 +266,7 @@ msgid "You've hit the maximum number of retries."
 msgstr "Вы сделали максимальное количество повторных попыток."
 
 #: On screen: max-phone-retries
-msgid "Please contact the operator to sort this out, or try again later."
+msgid "Please contact team@quickiecoin.com to sort this out, or try again later."
 msgstr "Пожалуйста, свяжитесь с оператором чтобы разобраться с ситуацией, или повторите попытку позже."
 
 #: On screen: pre-receipt
@@ -342,7 +342,7 @@ msgid "Our system indicated an identification problem."
 msgstr "Наша система указала на проблему идентификации."
 
 #: On screen: id-verification-failed
-msgid "Please contact the operator for more information."
+msgid "Please contact team@quickiecoin.com for more information."
 msgstr "Для получения дополнительной информации, пожалуйста, свяжитесь с оператором."
 
 #: On screen: id-verification-error
@@ -614,6 +614,6 @@ msgid "Sorry, but we're all out of cash!"
 msgstr "Извините, но у нас нет наличных денег!"
 
 #: On screen: out-of-cash
-msgid "Please contact the operator for assistance."
+msgid "Please contact team@quickiecoin.com for assistance."
 msgstr "Пожалуйста, свяжитесь с оператором для помощи."
 

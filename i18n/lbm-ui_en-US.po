@@ -201,8 +201,8 @@ msgid "We're down for the moment."
 msgstr "We're down for the moment."
 
 #: On screen: trouble
-msgid "Please contact the operator."
-msgstr "Please contact the operator."
+msgid "Please contact team@quickiecoin.com."
+msgstr "Please contact team@quickiecoin.com."
 
 #: On screen: booting
 msgid "Booting up..."
