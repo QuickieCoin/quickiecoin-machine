@@ -733,7 +733,7 @@ function setCredit (fiat, crypto, lastBill, cryptoCode) {
   var coin = coins[cryptoCode]
 
   $('.total-deposit').html(formatFiat(fiat))
-  var scale = new BigNumber(10).pow(coin.displayScale)
+  var scale = new BigNumber(10).pow(coin.unitScale)
   var cryptoAmount = new BigNumber(crypto).div(scale).toNumber()
   var cryptoDisplayCode = coin.displayCode
   updateCrypto('.total-crypto-rec', cryptoAmount, cryptoDisplayCode)
@@ -1040,7 +1040,7 @@ function manageFiatButtons (activeDenominations) {
 
 function displayCrypto (cryptoAtoms, cryptoCode) {
   var coin = coins[cryptoCode]
-  var scale = new BigNumber(10).pow(coin.displayScale)
+  var scale = new BigNumber(10).pow(coin.unitScale)
   var cryptoAmount = new BigNumber(cryptoAtoms).div(scale).round(3).toNumber()
   var cryptoDisplay = formatCrypto(cryptoAmount)
 
